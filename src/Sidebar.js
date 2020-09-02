@@ -1,10 +1,12 @@
 import React from "react";
 import "./Sidebar.css";
+import SidebarRow from "./SidebarRow";
 
 function Sidebar() {
   return (
     <div className="sidebar">
-      <h2>I'm the sidebar</h2>
+      <SidebarRow title="Pages" />
+      <SidebarRow title="Friends" />
     </div>
   );
 }
