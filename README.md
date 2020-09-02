@@ -1,4 +1,4 @@
-# Facebook-clone
+# facebook-clone
 
 ## Available Scripts
 
