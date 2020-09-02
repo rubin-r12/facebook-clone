@@ -1,10 +1,15 @@
 import React from "react";
 import "./StoryReel.css";
+import Story from "./Story";
 
 function StoryReel() {
   return (
     <div className="storyReel">
-      <h2>I'm a story Reel</h2>
+      <Story />
+      <Story />
+      <Story />
+      <Story />
+      <Story />
     </div>
   );
 }
