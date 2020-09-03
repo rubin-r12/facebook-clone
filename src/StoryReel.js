@@ -16,9 +16,9 @@ function StoryReel() {
         title="Selena Gomez"
       />
       <Story
-        image="https://i.ytimg.com/vi/eEhTQnVBBUY/maxresdefault.jpg"
-        profileSrc="https://pbs.twimg.com/media/EG64ChpXYAEK7Bo.jpg"
-        title="Tucker Budzyn"
+        image="https://i.ibb.co/8sPfQdV/gokarna.jpg"
+        profileSrc="https://i.ibb.co/bv02CBw/IIIT-hyd.jpg"
+        title="Rubin R"
       />
       <Story
         image="https://i.pinimg.com/736x/c1/9a/ac/c19aaccbaed1fd408872390fae75584a.jpg"
