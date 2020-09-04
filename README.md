@@ -1,5 +1,5 @@
 # Facebook-clone
-[!](https://i.ibb.co/dLGsbYG/facebook-clone1.png)
+![image](https://i.ibb.co/dLGsbYG/facebook-clone1.png)
 Click [here](https://facebook-clone-88c97.web.app/) to check out the live version.
 
 ## Available Scripts
